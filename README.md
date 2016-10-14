@@ -1,6 +1,6 @@
 # wic2015
 
-Travis Test Sample
+This is Travis Test Sample
 
 ## How to build
 
